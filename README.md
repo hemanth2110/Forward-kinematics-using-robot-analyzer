@@ -63,7 +63,8 @@ PROCEDURE:
 
 ![4DOF3](https://github.com/hemanth2110/Forward-kinematics-using-robot-analyzer/assets/121078629/ee8ccfa1-9236-4fe5-91c0-71495529de26)
    
- 
+ RESULTS :
+Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
  
  
  
